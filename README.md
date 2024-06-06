@@ -2,7 +2,7 @@
 Development of Data Lakehouse and Dashboard for Undergraduate Admissions at ITS Surabaya Using the Kimball Method and Machine Learning
 
 ## Project Brief
-This project involves designing a Data Warehouse for the undergraduate admissions process at ITS Surabaya. It began with gathering data from the ITS Surabaya and LTMPT websites to understand the registration and admission processes. Three admission pathways were identified: invitation, joint test (handled by LTMPT), and independent (managed by ITS). Applicant data from the first two pathways are received in CSV format and integrated into ITS's internal database. The project includes independently building an OLTP database, which consists of 50 tables. The initial design was created using Miro, with access details provided in the appendix.
+This project involves designing a Data Warehouse for the undergraduate admissions process at ITS Surabaya. It began with gathering data from the ITS Surabaya and LTMPT websites to understand the registration and admission processes. Three admission pathways were identified: seleksi undangan and tes bersama (handled by LTMPT), and jalur mandiri (managed by ITS). Applicant data from the first two pathways are received in CSV format and integrated into ITS's internal database. The project includes independently building an OLTP database, which consists of 50 tables. The initial design was created using Miro, with access details provided in the appendix.
 
 ## Project Task
 1. Select the Business Process
