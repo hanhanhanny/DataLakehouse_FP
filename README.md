@@ -18,6 +18,10 @@ This project involves designing a Data Warehouse for the undergraduate admission
 11. ETL Incremental
 12. Design & Implementation Dashboard
 
+## Dashboard
+![image](https://github.com/hanhanhanny/DataLakehouse_FP/assets/43703318/8743a78d-f4a8-4cae-a4e9-a8fc7cd0ef37)
+
+
 ## Source Data
 - https://snpmb.bppp.kemdikbud.go.id/
 - https://www.its.ac.id/admission/sarjana/
